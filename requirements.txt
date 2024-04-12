@@ -1,5 +1,8 @@
+h5py
 pandas
 numpy
-torch
 scikit-image
 tqdm
+torch
+torchvision
+torchaudio
